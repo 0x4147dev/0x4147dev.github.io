@@ -24,13 +24,13 @@ tagline: A blog focused on cybersecurity & Penetration Test # it will display as
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://0x4147dev.github.io"
 github:
-  username: ElliotAlderson003 # change to your GitHub username
+  username: 0x4147dev
 
 
 social:
   name: "0x4147"
   links:
-    - https://github.com/ElliotAlderson003
+    - https://github.com/0x4147dev
     - https://www.linkedin.com/in/andrea-gelmi-727590317/
 
 # Site Verification Settings
@@ -77,7 +77,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark
+theme_mode:
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
