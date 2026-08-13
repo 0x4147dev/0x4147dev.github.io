@@ -1,9 +1,9 @@
 ---
 title: "Silentium @ HackTheBox"
-date: 2026-08-03 17:00:00 +0200
+date: 2026-04-09 09:00:00 +0200
 categories: [Writeups, HackTheBox]
 tags: [ctf, linux, flowise, cve-2025-59528, gogs, cve-2025-8110, rce, information-disclosure]
-author: 0x4147
+author: andrea
 image:
   path: /commons/silentium.png
   no_bg: true
