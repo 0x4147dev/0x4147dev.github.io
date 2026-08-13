@@ -4,6 +4,5 @@ _site/
 vendor/
 venv/
 .bundle/
-Gemfile.lock
 *.gem
 .DS_Store
